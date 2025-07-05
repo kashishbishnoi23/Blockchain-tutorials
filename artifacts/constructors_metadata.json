@@ -1,0 +1,57 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "newage",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Constructor.sol": "constructors"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Constructor.sol": {
+			"keccak256": "0x3b70d48040b6c8d5b5669981486f618ea0c5e25c436e20d52268a67ed7cb6daa",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://6e32355a7e4b4502b3d7bbd40d5aa1a43a8eb4debc872735e35d8688b1984060",
+				"dweb:/ipfs/QmX6dta9iNKxuci8x5mUeA3D8H79KTS1YTUUuDN3W56Z7G"
+			]
+		}
+	},
+	"version": 1
+}
